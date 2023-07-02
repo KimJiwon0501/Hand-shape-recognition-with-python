@@ -1,5 +1,6 @@
 # pip install opencv-python
 # pip install mediapipe
+# https://developers.google.com/mediapipe/solutions/examples
 import cv2
 import sys
 import mediapipe as mp
